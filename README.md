@@ -1,11 +1,11 @@
 # Proyecto de Redes e Interconexión VLANs
 
-###### **ASIGNATURA:** 
+###### **ASIGNATURA: Manejo de tecnologías de conmutación y enrutamiento** 
 ###### **ALUMNO:** Jorge Manuel Hernández Ambrosio
 ###### **GRUPO:** 5101
 ###### **INSTITUCIÓN:** Plantel Conalep 039
 
-## ***DIAGRAMA Y TOPOLOGIA***
+## ***DIAGRAMA Y TOPOLOGÍA***
 <img width="817" height="478" alt="image" src="https://github.com/user-attachments/assets/44861f54-dec5-4b3c-9e9c-9150821a258e" />
 
 ## ***TABLAS DE DIRECCIONAMIENTO***
