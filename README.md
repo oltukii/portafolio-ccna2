@@ -11,7 +11,7 @@
 ## ***TABLAS DE DIRECCIONAMIENTO***
 
 | DISPOSITIVO | PUERTOS |
-| ----------- | ----------- |
+| - | - |
 | R1-Core | g0/0/0 fa0/10 |
 | SW-Lab1 | g0/1 g0/1 |
 | SW-Lab2 | g0/2 g0/2 |
