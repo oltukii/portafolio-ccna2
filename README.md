@@ -9,6 +9,7 @@
 <img width="817" height="478" alt="image" src="https://github.com/user-attachments/assets/44861f54-dec5-4b3c-9e9c-9150821a258e" />
 
 ## ***TABLAS DE DIRECCIONAMIENTO***
+
 | DISPOSITIVO | PUERTOS |
 | ----------- | ----------- |
 | R1-Core | ``g0/0/0`` ``fa0/10``|
