@@ -1,4 +1,4 @@
-# Proyecto de Redes e Interconexión VLANs
+# Proyecto de Redes e Interconexión VLANS
 
 ###### **ASIGNATURA: Manejo de tecnologías de conmutación y enrutamiento** 
 ###### **ALUMNO:** Jorge Manuel Hernández Ambrosio
